@@ -1,3 +1,5 @@
+[![Gomjellie's GitHub stats](https://github-readme-stats.vercel.app/api?username=gomjellie)](https://github.com/gomjellie/github-readme-stats)
+
 <div style="display: flex;">
     <div class="notion-cursor-default" style="position: relative; overflow: hidden; flex-grow: 1;">
         <div style="position: relative;">
