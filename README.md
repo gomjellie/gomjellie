@@ -1,8 +1,4 @@
 
-<div class="Box d-flex pinned-item-list-item p-3 width-full js-pinned-item-list-item public sortable-button-item source reorderable">
-  <img src="https://github-readme-stats.vercel.app/api?username=gomjellie"></img>
-</div>
-
 <div style="display: flex;">
      <div class="notion-cursor-default" style="position: relative; overflow: hidden; flex-grow: 1;">
          <div style="position: relative;">
